@@ -1,0 +1,15 @@
+#To find a number is positive or negative number
+a=int(input())
+
+if(a>0):
+    print('Positive number')
+else:
+    print('Negative number')
+
+output:
+======================================================= RESTART: C:/Users/S ANUPAMA/AppData/Local/Programs/Python/Python311/p6.py ======================================================
+-345
+Negative number
+======================================================= RESTART: C:/Users/S ANUPAMA/AppData/Local/Programs/Python/Python311/p6.py ======================================================
+4576
+Positive number
