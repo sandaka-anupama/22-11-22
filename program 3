@@ -1,0 +1,14 @@
+#To find a number is Even or odd
+a=int(input())
+if((a%2)==0):
+    print('Even number')
+else:
+    print('Odd number')
+
+output:
+======================================================= RESTART: C:/Users/S ANUPAMA/AppData/Local/Programs/Python/Python311/p6.py ======================================================
+46
+Even number
+======================================================= RESTART: C:/Users/S ANUPAMA/AppData/Local/Programs/Python/Python311/p6.py ======================================================
+123
+Odd number
