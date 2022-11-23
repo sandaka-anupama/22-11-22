@@ -1,0 +1,16 @@
+#two numbers are equal or not
+a=int(input())
+b=int(input())
+if(a==b):
+    print('Equal')
+else:
+    print('Not equal')
+output:
+======================================================= RESTART: C:/Users/S ANUPAMA/AppData/Local/Programs/Python/Python311/p6.py ======================================================
+49
+70
+Not equal
+======================================================= RESTART: C:/Users/S ANUPAMA/AppData/Local/Programs/Python/Python311/p6.py ======================================================
+50
+50
+Equal
